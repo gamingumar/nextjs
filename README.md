@@ -7,5 +7,7 @@ next.js react server side rendering app
 
 ## Installation
 
+```
 - npm install
 - npm run dev
+```
