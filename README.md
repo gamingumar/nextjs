@@ -1,7 +1,7 @@
 # nextjs
-next.js react server side rendering app
+next.js is a framework to render react on server side
 
-### NEXT.JS
+### Functionality in this App
 
 - navigating between pages
 - using shared components
